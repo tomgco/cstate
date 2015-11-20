@@ -8,7 +8,7 @@ This module allows you to temporarily disable these modes.
 I have found this useful in assisting with benchmark tests that would fluctuate due to these power saving modes.
 
 To confirm that this is working, you can use [i7z](https://code.google.com/p/i7z/) if you have an Intel i7 to see the
-current utalisation for each core, in each C-state.
+current utilisation for each core, in each C-state.
 
 **NOTE:** *This module reads `/dev/cpu_dma_latency` which requires root. Be careful :]*
 
