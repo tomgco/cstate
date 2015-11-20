@@ -5,7 +5,7 @@ In order to save energy when the CPU is idle, the CPU can be commanded to enter 
 
 This module allows you to temporarily disable these modes. 
 
-I have found this useful in assisting with benchmark tests that would fluctuate based due to these power saving modes.
+I have found this useful in assisting with benchmark tests that would fluctuate due to these power saving modes.
 
 **NOTE:** *This module reads `/dev/cpu_dma_latency` which requires root. Be careful :]*
 
