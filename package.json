@@ -1,0 +1,19 @@
+{
+  "name": "cstate",
+  "version": "1.0.0",
+  "description": "Disable CPU c-states on Intel i7's, and maybe other intel CPU's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cstate",
+    "performance",
+    "benchmark"
+  ],
+  "author": "Tom Gallacher <tomgallacher23@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "cstate-disable": "./bin/cstate-disable.js"
+  }
+}
