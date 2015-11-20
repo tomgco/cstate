@@ -1,6 +1,6 @@
 {
   "name": "cstate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Disable CPU c-states on Intel i7's, and maybe other intel CPU's",
   "main": "index.js",
   "scripts": {
