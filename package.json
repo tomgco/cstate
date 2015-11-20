@@ -13,6 +13,9 @@
   ],
   "author": "Tom Gallacher <tomgallacher23@gmail.com>",
   "license": "ISC",
+  "repository": { "type": "git",
+    "url": "https://github.com/tomgco/cstate.git"
+  },
   "bin": {
     "cstate-disable": "./bin/cstate-disable.js"
   }
