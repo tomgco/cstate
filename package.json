@@ -1,6 +1,6 @@
 {
   "name": "cstate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disable CPU c-states on Intel i7's, and maybe other intel CPU's",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   ],
   "author": "Tom Gallacher <tomgallacher23@gmail.com>",
   "license": "ISC",
-  "repository": { "type": "git",
+  "repository": {
+    "type": "git",
     "url": "https://github.com/tomgco/cstate.git"
   },
   "bin": {
