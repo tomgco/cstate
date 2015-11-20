@@ -1,4 +1,6 @@
-const cstate = require('./intel-no-cstate');
+#! /usr/bin/env node
+
+const cstate = require('../');
 
 cstate.disable((err) => {
   if (err) {
